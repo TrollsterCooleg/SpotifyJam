@@ -1,0 +1,4 @@
+name: SpotifyJam
+version: '${project.version}'
+main: me.cooleg.spotifyjam.SpotifyJam
+api-version: '1.14'
